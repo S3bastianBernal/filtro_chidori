@@ -1,0 +1,1 @@
+const Ruta = require('../models/Ruta.js');
